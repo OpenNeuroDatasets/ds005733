@@ -1,0 +1,9 @@
+filename	acq_time
+anat/sub-555530_T1w.nii.gz	2023-04-21T00:00:00
+anat/sub-555530_T2w.nii.gz	2023-04-21T00:00:00
+fmap/sub-555530_dir-AP_epi.nii.gz	2023-04-21T00:00:00
+fmap/sub-555530_dir-PA_epi.nii.gz	2023-04-21T00:00:00
+func/sub-555530_task-avatar_run-01_bold.nii.gz	2023-04-21T00:00:00
+func/sub-555530_task-avatar_run-02_bold.nii.gz	2023-04-21T00:00:00
+func/sub-555530_task-avatar_run-03_bold.nii.gz	2023-04-21T00:00:00
+func/sub-555530_task-avatar_run-04_bold.nii.gz	2023-04-21T00:00:00
