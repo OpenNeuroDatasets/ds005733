@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-653150_T1w.nii.gz	2023-05-11T00:00:00
+anat/sub-653150_T2w.nii.gz	2023-05-11T00:00:00
+fmap/sub-653150_dir-AP_epi.nii.gz	2023-05-11T00:00:00
+fmap/sub-653150_dir-PA_epi.nii.gz	2023-05-11T00:00:00
+func/sub-653150_task-avatar_run-01_bold.nii.gz	2023-05-11T00:00:00
+func/sub-653150_task-avatar_run-02_bold.nii.gz	2023-05-11T00:00:00
+func/sub-653150_task-avatar_run-03_bold.nii.gz	2023-05-11T00:00:00
+func/sub-653150_task-avatar_run-04_bold.nii.gz	2023-05-11T00:00:00
+func/sub-653150_task-avatar_run-05_bold.nii.gz	2023-05-11T00:00:00
+func/sub-653150_task-avatar_run-06_bold.nii.gz	2023-05-11T00:00:00

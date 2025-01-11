@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-176009_T1w.nii.gz	2023-02-08T00:00:00
+anat/sub-176009_T2w.nii.gz	2023-02-08T00:00:00
+fmap/sub-176009_dir-AP_epi.nii.gz	2023-02-08T00:00:00
+fmap/sub-176009_dir-PA_epi.nii.gz	2023-02-08T00:00:00
+func/sub-176009_task-avatar_run-01_bold.nii.gz	2023-02-08T00:00:00
+func/sub-176009_task-avatar_run-02_bold.nii.gz	2023-02-08T00:00:00
+func/sub-176009_task-avatar_run-03_bold.nii.gz	2023-02-08T00:00:00
+func/sub-176009_task-avatar_run-04_bold.nii.gz	2023-02-08T00:00:00
+func/sub-176009_task-avatar_run-05_bold.nii.gz	2023-02-08T00:00:00
+func/sub-176009_task-avatar_run-06_bold.nii.gz	2023-02-08T00:00:00
